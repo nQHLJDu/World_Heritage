@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.14437689969604864" />
+        <entry key="app/src/main/res/layout/kanto.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/kinki.xml" value="0.15121580547112462" />
+        <entry key="app/src/main/res/layout/kyusyu.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/mainpage.xml" value="0.15121580547112462" />
+        <entry key="app/src/main/res/layout/shikoku.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/tohoku.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/tyubu.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/tyugoku.xml" value="0.15121580547112462" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

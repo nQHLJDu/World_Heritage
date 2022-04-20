@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.worldheritage">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WorldHeritage">
+        <activity
+            android:name=".Main"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    //activityの追加忘れないよう
+        <activity android:name=".KinkiActivity"
+            tools:ignore="WrongManifestParent"/>
+
+        <activity android:name=".TyugokuActivity"
+            tools:ignore="WrongManifestParent"/>
+
+        <activity android:name=".ShikokuActivity"
+            tools:ignore="WrongManifestParent"/>
+
+        <activity android:name=".KyusyuActivity"
+            tools:ignore="WrongManifestParent"/>
+
+        <activity android:name=".TyubuActivity"
+            tools:ignore="WrongManifestParent"/>
+
+        <activity android:name=".KantoActivity"
+            tools:ignore="WrongManifestParent"/>
+
+        <activity android:name=".TohokuActivity"
+            tools:ignore="WrongManifestParent"/>
+
+    </application>
+
+</manifest>

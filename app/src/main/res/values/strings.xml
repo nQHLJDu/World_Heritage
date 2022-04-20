@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">world Heritage</string>
+    <string name="name">世界遺産</string>
+
+    <string name="area_tohoku">北海道・東北地方</string>
+    <string name="map_hokkaido">北海道世界遺産</string>
+    <string name="map_aomori">青森県世界遺産</string>
+    <string name="map_iwate">岩手県世界遺産</string>
+    <string name="map_miyagi">宮城県世界遺産</string>
+    <string name="map_akita">秋田県世界遺産</string>
+    <string name="map_yamagata">山形県世界遺産</string>
+    <string name="map_hukushima">福島県世界遺産</string>
+
+    <string name="area_kanto">関東地方</string>
+    <string name="map_ibaraki">茨城県世界遺産</string>
+    <string name="map_tochigi">栃木県世界遺産</string>
+    <string name="map_gunma">群馬県世界遺産</string>
+    <string name="map_saitama">埼玉県世界遺産</string>
+    <string name="map_chiba">千葉県世界遺産</string>
+    <string name="map_tokyo">東京都世界遺産</string>
+    <string name="map_kanagawa">神奈川県世界遺産</string>
+
+    <string name="area_tyubu">中部地方</string>
+    <string name="map_niigata">新潟県世界遺産</string>
+    <string name="map_toyama">富山県世界遺産</string>
+    <string name="map_ishikawa">石川県世界遺産</string>
+    <string name="map_hukui">福井県世界遺産</string>
+    <string name="map_yamanashi">山梨県世界遺産</string>
+    <string name="map_nagano">長野県世界遺産</string>
+    <string name="map_gihu">岐阜県世界遺産</string>
+    <string name="map_shizuoka">静岡県世界遺産</string>
+    <string name="map_aichi">愛知県世界遺産</string>
+
+    <string name="area_kinki">近畿地方</string>
+    <string name="map_hyogo">兵庫県世界遺産</string>
+    <string name="map_osaka">大阪府世界遺産</string>
+    <string name="map_kyoto">京都府世界遺産</string>
+    <string name="map_nara">奈良県世界遺産</string>
+    <string name="map_shiga">滋賀県世界遺産</string>
+    <string name="map_wakayama">和歌山県世界遺産</string>
+    <string name="map_mie">三重県世界遺産</string>
+
+    <string name="area_tyugoku">中国地方</string>
+    <string name="map_shimane">島根県世界遺産</string>
+    <string name="map_tottori">鳥取県世界遺産</string>
+    <string name="map_hiroshima">広島県世界遺産</string>
+    <string name="map_okayama">岡山県世界遺産</string>
+    <string name="map_yamaguchi">山口県世界遺産</string>
+
+    <string name="area_shikoku">四国地方</string>
+    <string name="map_kagawa">香川県世界遺産</string>
+    <string name="map_kouchi">高知県世界遺産</string>
+    <string name="map_tokushima">徳島県世界遺産</string>
+    <string name="map_ehime">愛媛県世界遺産</string>
+
+    <string name="area_kyusyu">九州・沖縄地方</string>
+    <string name="map_hukuoka">福岡県世界遺産</string>
+    <string name="map_nagasaki">長崎県世界遺産</string>
+    <string name="map_kumamoto">熊本県世界遺産</string>
+    <string name="map_kagoshima">鹿児島県世界遺産</string>
+    <string name="map_saga">佐賀県世界遺産</string>
+    <string name="map_oita">大分県世界遺産</string>
+    <string name="map_miyazaki">宮崎県世界遺産</string>
+    <string name="map_okinawa">沖縄県世界遺産</string>
+
+
+</resources>
